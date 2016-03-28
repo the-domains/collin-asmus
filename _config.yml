@@ -1,0 +1,28 @@
+name: Collin Asmus
+favicon: null
+layout_spectrum: 0.6464001468848437
+typography_spectrum: 0.47415796224959195
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.1313825340475887
+  lightness: 0.8789241970516741
+  saturation: 0.990940626244992
+  rhythmicContrast: 0.8229200278874487
+purpose: []
