@@ -20,7 +20,7 @@ color:
     - '#040203'
     - '#FAFAFA'
     - '#B5B3B4'
-  rhythmicContrast: 1
+  rhythmicContrast: 0
 cta:
   bucket: null
   version: null
@@ -29,8 +29,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Collin Asmus
 favicon: null
+name: Collin Asmus
 opengraph:
   image: null
   type: null
