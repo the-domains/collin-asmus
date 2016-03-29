@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Collin Asmus]]></title>
+        <description><![CDATA[Collin Asmus]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 29 Mar 2016 03:02:45 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Collin Asmus]]></title>
+            <description><![CDATA[<article><h1>Collin Asmus</h1><p>It has been a long time since I updated my personal site.  My plan is to update very soon with new work and happenings. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e94c2d5d-aa70-497b-b080-0a807c81d369.jpg"></article>]]></description>
+            <link>undefinedcollin-asmus/index.html</link>
+            <guid isPermaLink="false">b4fd1924-b0cb-4e42-ac8f-a13dac338f89</guid>
+            <pubDate>Tue, 29 Mar 2016 03:02:33 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
