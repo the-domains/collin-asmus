@@ -13,14 +13,14 @@ collections:
     permalink:
       path: '/:title/'
 color:
-  saturation: 0.01854975
+  saturation: 0.5623946
   brandStrength: 0.4569983
-  rhythmicContrast: 0
+  lightness: 0
   brandColors:
     - '#040203'
     - '#FAFAFA'
     - '#B5B3B4'
-  lightness: 0
+  rhythmicContrast: 0.5328836
 cta:
   bucket: null
   version: null
@@ -29,8 +29,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Collin Asmus
 favicon: null
+name: Collin Asmus
 opengraph:
   image: null
   type: null
