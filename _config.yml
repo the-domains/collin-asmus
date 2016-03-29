@@ -1,29 +1,41 @@
-name: Collin Asmus
-favicon: null
-layout_spectrum: 0.28627
-typography_spectrum: 0.69257
 title: Collin Asmus
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.01854975
+  brandStrength: 0.375
+  lightness: 0
   brandColors:
     - '#ffffff'
     - '#323232'
     - '#6c6c6c'
     - '#c6c6c6'
     - '#0a0a0a'
-  brandStrength: 0.375
-  lightness: 0.0625
-  saturation: 0.9375
-  rhythmicContrast: 1
-purpose: []
+  rhythmicContrast: 0.5185497
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Collin Asmus
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.69257
+layout_spectrum: 0.1677909
