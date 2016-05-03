@@ -6,19 +6,22 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
   saturation: 0
   brandStrength: 0.004215851
   lightness: 0
   brandColors:
-    - '#424242'
-    - '#E0E0E0'
+    - '#FFFFA3'
+    - '#0F0B08'
+    - '#D9C5AA'
+    - '#8F8122'
+    - '#4E453C'
   rhythmicContrast: 0.3667791
 cta:
   bucket: null
@@ -28,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Collin Asmus
 favicon: null
+name: Collin Asmus
 opengraph:
   image: null
   type: null
